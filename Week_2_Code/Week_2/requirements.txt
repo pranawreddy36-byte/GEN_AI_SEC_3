@@ -1,0 +1,1 @@
+python-dotenv\npytest\ngoogle-genai\nrequests\n
